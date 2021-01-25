@@ -1,0 +1,8 @@
+class Television
+data: String brand String model double price bool is4K double size
+functions: showPriceAfterDiscount => print  price / 2
+Ctor with ll arguments -- auto generated
+toString -- auto generated
+create a tv
+println the tv
+run in debug and look in console how the Tv is shown ... hint: like in toString
