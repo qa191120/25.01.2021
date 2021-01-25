@@ -1,0 +1,13 @@
+Create a class called Country
+Fields:
+String name, double size, int numberOfCitizens, String continent
+Ctor:
+with all parameters
+Functions:
+printCountrySize()
+printSizePerCitizen()
+ToString()
+
+Now add lombok:
+Ctor with all args
+ToString
