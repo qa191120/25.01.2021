@@ -1,0 +1,16 @@
+Create class called Car
+add public fields:
+String brand
+String model
+int year
+double weight
+int price
+
+create ctor which gets all parameters
+create ctor which gets only brand and model
+
+from main create 2 cars
+1 - with all parameters ctor
+2 - with only brand and model parameters ctor 
+* etgar in 2 ctor call 1st ctor and use random values
+
